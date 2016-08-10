@@ -1,0 +1,20 @@
+skipReportFileCreation = false
+logEventsInMergeFile = true
+overWriteMergedLogs = true
+omitSimulatedHRFiles = true
+targetHRPercentage = 0.40
+<<<<<<< .mine
+logsInputPath = \Dropbox\LiberiRCTLogs\
+projectInitials = cpfnf
+reportsOutputPath = \Dropbox\LiberiRCTLogs\ReportsWeeks\
+=======
+logsInputPath = \Dropbox\LiberiCCSSingleplayerLogs\
+projectInitials = ccs
+reportsOutputPath = \Dropbox\LiberiCCSSingleplayerLogs\Reports (5)\
+>>>>>>> .r5829
+simulatedHRColumn = 7
+startDateValues = 2014,01,23
+trialLengthInDays = 42
+participants =10,11,12,13,14,15,16,17
+produceWeekReportColum = true
+produceDailyReportColumn = false

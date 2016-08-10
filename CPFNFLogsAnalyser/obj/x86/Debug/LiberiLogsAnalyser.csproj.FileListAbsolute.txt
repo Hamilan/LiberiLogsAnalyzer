@@ -1,0 +1,8 @@
+C:\Users\Hamilan\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Debug\LiberiLogsAnalyser.csproj.ResolveComReference.cache
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\bin\Debug\ConfigurationParameters.txt
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\bin\Debug\ParticipantsProfiles.txt
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\bin\Debug\LiberiLogsAnalyser.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\bin\Debug\LiberiLogsAnalyser.pdb
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Debug\LiberiLogsAnalyser.csproj.ResolveComReference.cache
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Debug\LiberiLogsAnalyser.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Debug\LiberiLogsAnalyser.pdb

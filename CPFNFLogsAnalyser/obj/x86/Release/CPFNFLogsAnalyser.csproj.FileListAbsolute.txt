@@ -1,0 +1,28 @@
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.exe
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.pdb
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.exe
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.pdb
+C:\LocalCopy CPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.exe
+C:\LocalCopy CPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.pdb
+C:\LocalCopy CPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.exe
+C:\LocalCopy CPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.pdb
+C:\LocalCopy CPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\michelle\Documents\FieldTrial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.exe
+C:\Users\michelle\Documents\FieldTrial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.pdb
+C:\Users\michelle\Documents\FieldTrial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.exe
+C:\Users\michelle\Documents\FieldTrial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.pdb
+C:\Users\michelle\Documents\FieldTrial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\ResolveAssemblyReference.cache
+E:\LocalCopyCPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.exe
+E:\LocalCopyCPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.pdb
+C:\LocalCopy CPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\ParticipantsProfiles.txt
+E:\LocalCopyCPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\ParticipantsProfiles.txt
+E:\LocalCopyCPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.exe
+E:\LocalCopyCPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.pdb
+E:\LocalCopyCPFitNFunDocs\Field Trial\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\hamilton\Dropbox\MyPhD\Research\Cadence cap and HR\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\Cadence cap and HR\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\CPFNFLogsAnalyser.pdb
+C:\Users\hamilton\Dropbox\MyPhD\Research\Cadence cap and HR\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\ParticipantsProfiles.txt
+C:\Users\hamilton\Dropbox\MyPhD\Research\Cadence cap and HR\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\Cadence cap and HR\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Release\CPFNFLogsAnalyser.pdb
+C:\Users\hamilton\Dropbox\MyPhD\Research\Cadence cap and HR\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Release\ResolveAssemblyReference.cache

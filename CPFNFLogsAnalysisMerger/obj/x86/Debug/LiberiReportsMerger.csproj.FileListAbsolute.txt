@@ -1,0 +1,4 @@
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\bin\Debug\LiberiLogsReportsMerger.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\bin\Debug\LiberiLogsReportsMerger.pdb
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\obj\x86\Debug\LiberiLogsReportsMerger.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\obj\x86\Debug\LiberiLogsReportsMerger.pdb

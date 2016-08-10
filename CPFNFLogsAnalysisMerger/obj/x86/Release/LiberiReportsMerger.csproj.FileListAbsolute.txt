@@ -1,0 +1,8 @@
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiRCTLogsAnalyser\CPFNFLogsAnalysisMerger\bin\Release\CPFNFLogsAnalysisMerger.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiRCTLogsAnalyser\CPFNFLogsAnalysisMerger\bin\Release\CPFNFLogsAnalysisMerger.pdb
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiRCTLogsAnalyser\CPFNFLogsAnalysisMerger\obj\x86\Release\CPFNFLogsAnalysisMerger.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiRCTLogsAnalyser\CPFNFLogsAnalysisMerger\obj\x86\Release\CPFNFLogsAnalysisMerger.pdb
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\bin\Release\LiberiLogsReportsMerger.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\bin\Release\LiberiLogsReportsMerger.pdb
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\obj\x86\Release\LiberiLogsReportsMerger.exe
+C:\Users\hamilton\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\CPFNFLogsAnalysisMerger\obj\x86\Release\LiberiLogsReportsMerger.pdb

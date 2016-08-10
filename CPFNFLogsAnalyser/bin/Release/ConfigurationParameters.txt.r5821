@@ -1,0 +1,14 @@
+skipReportFileCreation = false
+logEventsInMergeFile = true
+overWriteMergedLogs = false
+omitSimulatedHRFiles = true
+targetHRPercentage = 0.40
+logsInputPath = \Dropbox\LiberiRCTLogs\
+projectInitials = cpfnf
+reportsOutputPath = \Dropbox\LiberiRCTLogs\Reports\
+simulatedHRColumn = 7
+startDateValues = 2013,09,28
+trialLengthInDays = 70
+participants =1,2,3,4,5,6
+produceWeekReportColum = true
+produceDailyReportColumn = false

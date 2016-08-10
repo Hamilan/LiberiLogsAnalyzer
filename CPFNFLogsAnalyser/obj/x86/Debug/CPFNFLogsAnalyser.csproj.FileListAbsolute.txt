@@ -1,0 +1,5 @@
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Debug\CPFNFLogsAnalyser.exe
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\bin\Debug\CPFNFLogsAnalyser.pdb
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Debug\CPFNFLogsAnalyser.exe
+c:\users\hamil\documents\visual studio 2010\Projects\CPFNFLogsAnalyser\CPFNFLogsAnalyser\obj\x86\Debug\CPFNFLogsAnalyser.pdb

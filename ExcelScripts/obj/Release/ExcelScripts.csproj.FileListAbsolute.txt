@@ -1,0 +1,6 @@
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\bin\Release\ExcelScripts.exe.config
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\bin\Release\ExcelScripts.exe
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\bin\Release\ExcelScripts.pdb
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\obj\Release\ExcelScripts.csprojResolveAssemblyReference.cache
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\obj\Release\ExcelScripts.exe
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\obj\Release\ExcelScripts.pdb

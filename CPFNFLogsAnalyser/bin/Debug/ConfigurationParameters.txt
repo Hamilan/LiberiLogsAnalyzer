@@ -1,0 +1,13 @@
+skipReportFileCreation = false
+logEventsInMergeFile = true
+overWriteMergedLogs = false
+omitSimulatedHRFiles = true
+targetHRPercentage = 0.40
+logsInputPath = \Documents\cpfnf11-18 Log Files\
+projectInitials = cpfnf
+reportsOutputPath = \Documents\cpfnf11-18 Log Files\Reports\
+simulatedHRColumn = 7
+startDateValues = 2012,10,30
+trialLengthInDays = 45
+participants =11,12,13,14,15,16,17,18
+produceWeekReportColum = true

@@ -1,0 +1,12 @@
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\obj\Debug\ExcelScripts.csprojResolveAssemblyReference.cache
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\bin\Debug\ExcelScripts.exe.config
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\bin\Debug\ExcelScripts.exe
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\bin\Debug\ExcelScripts.pdb
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\obj\Debug\ExcelScripts.exe
+C:\Users\Equis Windows\Documents\Liberi Analyzer\ExcelScripts\obj\Debug\ExcelScripts.pdb
+C:\Users\Hamilan\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\ExcelScripts\bin\Debug\ExcelScripts.exe.config
+C:\Users\Hamilan\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\ExcelScripts\obj\Debug\ExcelScripts.exe
+C:\Users\Hamilan\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\ExcelScripts\obj\Debug\ExcelScripts.pdb
+C:\Users\Hamilan\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\ExcelScripts\bin\Debug\ExcelScripts.exe
+C:\Users\Hamilan\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\ExcelScripts\bin\Debug\ExcelScripts.pdb
+C:\Users\Hamilan\Dropbox\MyPhD\Research\CPFitNFun\Code\LiberiLogsAnalyser\ExcelScripts\obj\Debug\ExcelScripts.csproj.ResolveComReference.cache
